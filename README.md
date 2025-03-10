@@ -66,3 +66,6 @@
 - 使用 Material-UI 组件库构建界面
 - 采用 Next.js 框架，支持服务端渲染
 - 使用 OpenRouter API 进行 AI 对话
+
+## 项目截图
+https://github.com/sxd-mike/react-ai-chat/blob/main/public/ex.png
