@@ -68,4 +68,4 @@
 - 使用 OpenRouter API 进行 AI 对话
 
 ## 项目截图
-https://github.com/sxd-mike/react-ai-chat/blob/main/public/ex.png
+![](https://github.com/sxd-mike/react-ai-chat/blob/main/public/ex.png)
