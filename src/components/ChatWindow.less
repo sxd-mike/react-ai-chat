@@ -1,0 +1,49 @@
+:global {
+  .chatRecordBox {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 16px;
+    padding: 12px;
+    border-radius: 8px;
+    max-width: 1000px;
+    &.user {
+      
+    }
+
+    &.assistant {
+      
+    }
+
+    > div {
+      p:first-child {
+        font-weight: bold;
+        margin-bottom: 4px;
+        margin-top: 0;
+      }
+      p:last-child {
+        font-size: 14px;
+        white-space: pre-wrap;
+        margin: 0;
+        line-height: 1;
+      }
+    }
+
+    &.user .avatar {
+      background-color: #FFC702;
+      padding: 12px;
+    }
+    &.assistant .avatar {
+      background-color: #04C685;
+      padding: 12px;
+    }
+
+    .handleBtn{
+        width: 20px;
+        backgroundColor: 'currentColor',
+    }
+  }
+
+  .MuiInputBase-root.MuiOutlinedInput-root {
+    border-radius: 16px;
+  }
+}
